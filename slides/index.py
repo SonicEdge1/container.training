@@ -32,12 +32,6 @@ TEMPLATE="""<html>
       <tr>
         <td class="details">This is a live recording of a 1-day workshop that took place at QCON London in March 2019.</td>
       </tr>
-      <tr>
-        <td class="details">If you're interested, we can deliver that workshop (or longer courses) to your team or organization.</td>
-      </tr>
-      <tr>
-        <td class="details">Contact <a href="mailto:jerome.petazzoni@gmail.com">Jérôme Petazzoni</a> to make that happen!</td>
-      </tr>
 
       {% if coming_soon %}
         <tr><td class="title" colspan="3">Coming soon</td></tr>
@@ -130,7 +124,7 @@ TEMPLATE="""<html>
 
       <tr>
         <td class="footer">
-          Maintained by Jérôme Petazzoni (<a href="https://twitter.com/jpetazzo">@jpetazzo</a>) and <a href="https://github.com/jpetazzo/container.training/graphs/contributors">contributors</a>.
+          Maintained by Me.
         </td>
       </tr>
     </table>
